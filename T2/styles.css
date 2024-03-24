@@ -67,7 +67,9 @@ article{
 }
 
 dogs{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
     border-radius: 8px;
-    float: right;
-    size-adjust: 10px  ;
 }
