@@ -5,7 +5,7 @@ header,footer{
     text-align: center;
     font-size: 30px;
     font-weight: bold;
-    clear: left;
+    clear: both;
 }
 
 body{
@@ -16,13 +16,15 @@ body{
 }
 
 h1{
+    border: 2px solid black;
     border-style: solid;
     border-radius: 8px;
     padding: 2px;
+    text-align: center;
 }
 
 p{
-    border: 2px solid burlywood;
+    border: 2px solid black;
     border-radius: 8px;
     padding: 5px;
     margin: 5px;
@@ -66,10 +68,47 @@ article{
     height: 230px;
 }
 
-dogs{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
+img{
     border-radius: 8px;
+}
+
+figure{
+    float: right;
+    border: 2px solid;
+    padding: 5px;
+    margin: auto;
+}
+
+figcaption{
+    background-color: burlywood;
+    padding: 2px;
+    text-align: center;
+}
+
+ul{
+    float: left;
+    list-style-type: none;
+    margin: 0px;
+    padding: 2px;
+    width: 100px;
+    background-color: burlywood;
+}
+
+li a{
+    display: block;
+    color: ;
+    padding: 8px;
+}
+
+li a:hover{
+    background-color:   rgb(46, 93, 95);
+    color: rgb(146, 190, 226);
+}
+
+section2{
+    float: left;
+    width: 34%;
+    color: rgb(146, 190, 226);
+    height: 230px;
+    padding: 6px;
 }
