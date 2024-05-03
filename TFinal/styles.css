@@ -1,6 +1,6 @@
 .row{
     background-color:black
-    }
+}
 
 .col-sm-4{
     color: blue;
@@ -21,7 +21,7 @@ header,footer{
 
 }
 
-body {
+body{
     background-image: url("boulder.jpg");
     background-repeat: no-repeat;
     border-radius: 8px;
@@ -84,3 +84,11 @@ p{
     margin: 5px;
 }
 
+ul1{
+    float: left;
+    list-style-type: circle;
+    margin: 12px;
+    padding: 12px;
+    width: 50%;
+    background-color: sandybrown;
+}
