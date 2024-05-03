@@ -14,7 +14,7 @@
 header,footer{
     background-color: sandybrown;
     color: black;
-    padding: 1em;
+    padding: 10px;
     text-align: center;
     font-size: 28px;
     font-weight: bold;
@@ -43,7 +43,7 @@ section{
     height: 200x;
     padding: 12px;
     margin-top: 12px;
-    
+    margin-bottom: 12px;
 }
 
 aside{
@@ -55,7 +55,7 @@ aside{
     height: 210px;
     padding: 12px;
     margin-top: 12px;
-    
+    margin-bottom: 12px;
 }
 
 article{
