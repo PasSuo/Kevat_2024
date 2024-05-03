@@ -24,3 +24,12 @@ h1{
     padding: 2px;
     text-align: center;
 }
+
+ul{
+    float: left;
+    list-style-type: none;
+    margin: 0px;
+    padding: 2px;
+    width: 100px;
+    background-color: burlywood;
+}
