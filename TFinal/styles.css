@@ -1,0 +1,88 @@
+.row{
+    background-color:black
+    
+}
+
+.col-sm-4{
+    color: blue;
+}
+
+.col-sm-6   {
+    color: green;
+}
+
+header,footer{
+    background-color: sandybrown;
+    color: black;
+    padding: 1em;
+    text-align: center;
+    font-size: 28px;
+    font-weight: bold;
+    clear: both;
+
+}
+
+body {
+    background-image: url("boulder.jpg");
+    background-repeat: no-repeat;
+    border-radius: auto;
+    background-position: 50%;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    padding: auto;
+    margin: auto;
+}
+
+section{
+    background-color: sandybrown;
+    clear: both;
+    float: left;
+    width: 55%;
+    color: black;
+    height: 200x;
+    padding: 12px;
+    margin-top: 12px;
+    
+}
+
+aside{
+    background-color: sandybrown;
+    clear: both;
+    float: right;
+    width: 55%;
+    color: black;
+    height: 210px;
+    padding: 12px;
+    margin-top: 12px;
+    
+}
+
+article{
+    background-color: sandybrown;
+    clear: both;
+    float: left;
+    width: 55%;
+    padding: 12px;
+    color: black;
+    height: 230px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+h1{
+    border: 2px solid black;
+    border-style: solid;
+    border-radius: 8px;
+    padding: 2px;
+    text-align: center;
+    
+}
+
+p{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 5px;
+}
+
