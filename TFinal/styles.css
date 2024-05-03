@@ -24,12 +24,12 @@ header,footer{
 body {
     background-image: url("boulder.jpg");
     background-repeat: no-repeat;
-    border-radius: auto;
+    border-radius: 8px;
     background-position: 50%;
     width: 90%;
     margin-left: auto;
     margin-right: auto;
-    padding: auto;
+    padding: 12px;
     margin: auto;
 }
 
@@ -39,7 +39,7 @@ section{
     float: left;
     width: 55%;
     color: black;
-    height: 200x;
+    
     padding: 12px;
     margin-top: 12px;
     margin-bottom: 12px;
@@ -51,7 +51,7 @@ aside{
     float: right;
     width: 55%;
     color: black;
-    height: 210px;
+    
     padding: 12px;
     margin-top: 12px;
     margin-bottom: 12px;
@@ -64,7 +64,6 @@ article{
     width: 55%;
     padding: 12px;
     color: black;
-    height: 230px;
     margin-top: 12px;
     margin-bottom: 12px;
 }
