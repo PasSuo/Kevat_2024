@@ -24,6 +24,7 @@ header,footer{
 body{
     background-image: url("boulder.jpg");
     background-repeat: no-repeat;
+    background-color: black;
     border-radius: 8px;
     background-position: 50%;
     width: 90%;
