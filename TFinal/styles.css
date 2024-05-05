@@ -93,3 +93,18 @@ ul1{
     width: 50%;
     background-color: sandybrown;
 }
+
+figure{
+    float: right;
+    border: 2px solid;
+    padding: 4px;
+    margin: 4px;
+    
+}
+
+figcaption{
+    background-color: sandybrown;
+    padding: 4px;
+    text-align: center;
+    
+}
