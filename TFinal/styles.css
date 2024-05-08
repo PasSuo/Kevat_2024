@@ -89,9 +89,9 @@ p{
     
     border: 2px solid black;
     border-radius: 8px;
-    padding: 5px;
+    padding: 2px;
     margin: 5px;
-    
+    background-color: sandybrown;
 }
 
 .links{
