@@ -86,6 +86,7 @@ p{
 }
 
 .link-text{
+    float: left;
     border: 2px solid black;
     border-radius: 8px;
     padding: 5px;
