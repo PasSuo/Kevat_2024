@@ -85,11 +85,18 @@ p{
     margin: 5px;
 }
 
+.link-text{
+    border: 2px solid black;
+    border-radius: 8px;
+    padding: 5px;
+    margin: 5px;  
+}
+
 .links{
     float: left;
     list-style-type: circle;
-    margin: 12px;
-    padding: 12px;
+    margin: 4px;
+    padding: 4px;
     width: 50%;
     background-color: sandybrown;
 }
